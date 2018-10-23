@@ -19,4 +19,4 @@
 ※このウィジェットは4x4のスペースが必要です。
 
 ### プレビュー
-![プレビュー](https://github.com/lab-stardust/com.stardust.home/blob/master/res/drawable/preview.png)
+![プレビュー](https://github.com/skymap/home_planetarium/blob/master/res/drawable/preview.png)
